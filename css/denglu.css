@@ -1,0 +1,129 @@
+/*
+* @Author: gf880623
+* @Date:   2018-08-28 21:35:51
+* @Last Modified by:   gf880623
+* @Last Modified time: 2018-08-29 10:03:38
+*/
+body{
+	background-color: #F2F5FC;
+}
+.main{
+	width: 100%;
+	height: 30px;
+	background-color: white;
+	box-shadow: 0 0.4px 3px 3px #888;
+}
+.frame{
+	width: 100%;
+	height: 420px;
+	background-color:#F2F5FC;
+	padding: 100px 0; 
+	margin-top: 5px;
+}
+.frame .deng-box{
+	height: 220px;
+	background-color: white;
+	padding: 0;
+}
+.frame .deng-box .con{
+	width: 100%;
+	height: 40px;
+	background-color: #F9FAFC;
+	padding: 10px 10px;
+}
+.frame .deng-box .con .left{
+	height: 20px;
+	float: left;
+}
+.frame .deng-box .con .left i{
+	font-size: 16px;
+	color: #999;
+	line-height: 20px;
+}
+.frame .deng-box .con .left span{
+	font-size: 14px;
+	color: #999;
+	line-height: 20px;
+}
+.frame .deng-box .con button{
+	width: 128px;
+	height: 20px;
+	border-radius: 4px;
+	background-color: #ffb013;
+	border: 0;
+	border-top: 2px solid #ff6c13;
+	outline: none;
+	font-size: 12px;
+	color: white;
+	line-height: 20px;
+	text-align: center;
+	float: right;
+}
+.frame .deng-box .shuru-box{
+	width: 100%;
+	height: calc(100% - 40px);
+	background-color: white;
+	padding: 20px 100px;
+}
+.frame .deng-box .shuru-box .zhanghao{
+	height: 22px;
+	font-size: 12px;
+	font-family: "微软雅黑";
+	color: #6b7771;
+	line-height: 22px;
+}
+.frame .deng-box .shuru-box input{
+	width: 100%;
+	height: 22px;
+	border: 2px solid orange;
+	outline: none;
+	margin-bottom: 15px;
+	padding-left: 15px;
+}
+.frame .deng-box .shuru-box .dianji{
+	width: 64px;
+	height: 34px;
+	border-radius: 4px;
+	border: 0;
+	border-top: 2px solid #ff6c13;
+	background-color: #ffb013;
+	outline: none;
+	line-height: 34px;
+	text-align: center;
+	font-size: 12px;
+	color: white;
+}
+.frame .deng-box .shuru-box .wangji{
+	width: 100px;
+	height: 34px;
+	border-radius: 4px;
+	border: 0;
+	border-top: 2px solid #ff6c13;
+	background-color: #ffb013;
+	outline: none;
+	line-height: 34px;
+	text-align: center;
+	font-size: 12px;
+	color: white;
+}
+.footers{
+	width: 100%;
+	height: 54px;
+	background-color: #333;
+	font-size: 12px;
+	color: white;
+	text-align: center;
+	line-height: 54px;
+}
+@media screen and (min-width: 600px){
+	
+}
+@media screen and (min-width: 768px){
+
+}
+@media screen and (min-width: 992px){
+
+}
+@media screen and (min-width: 1200px){
+
+}
